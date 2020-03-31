@@ -1,0 +1,12 @@
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\obj\Debug\netcoreapp3.0\MJDateImporterExcel.csprojAssemblyReference.cache
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\obj\Debug\netcoreapp3.0\MJDateImporterExcel.csproj.CoreCompileInputs.cache
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\obj\Debug\netcoreapp3.0\MJDateImporterExcel.AssemblyInfoInputs.cache
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\obj\Debug\netcoreapp3.0\MJDateImporterExcel.AssemblyInfo.cs
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\bin\Debug\netcoreapp3.0\MJDateImporterExcel.exe
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\bin\Debug\netcoreapp3.0\MJDateImporterExcel.deps.json
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\bin\Debug\netcoreapp3.0\MJDateImporterExcel.runtimeconfig.json
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\bin\Debug\netcoreapp3.0\MJDateImporterExcel.runtimeconfig.dev.json
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\bin\Debug\netcoreapp3.0\MJDateImporterExcel.dll
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\bin\Debug\netcoreapp3.0\MJDateImporterExcel.pdb
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\obj\Debug\netcoreapp3.0\MJDateImporterExcel.dll
+C:\Users\tjtj\source\repos\MJDateImporterExcel\MJDateImporterExcel\obj\Debug\netcoreapp3.0\MJDateImporterExcel.pdb
